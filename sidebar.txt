@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kti:home|Door43 (kti)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kti|d43-kti repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kti/archive/master.zip|d43-kti.zip]]
+
+**Recent Changes**
+{{changes>ns = kti}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kti|Ethnologue data]]
+
